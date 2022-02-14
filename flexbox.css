@@ -1,0 +1,15 @@
+.card{
+    width: 200px;
+    height: 300px;
+    background-color: aqua;
+    color: red;
+    margin: 2px;
+    
+}
+.container{
+    background-color: rgb(105, 202, 126);
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+}
